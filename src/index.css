@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Warna utama dari Selection Colors Figma kamu */
+  --color-primary: #FF6464;     /* Merah/Coral (Primary) */
+  --color-secondary: #00A8CC;   /* Biru Muda (Secondary) */
+  --color-dark: #21243D;        /* Biru Gelap/Hitam (Dark) */
+  --color-dark-blue: #142850;   /* Biru Navy (Badge Tahun) */
+  --color-light: #8695A4;       /* Abu-abu (Light) */
+  --color-light-bg: #EDF7FA;    /* Biru sangat muda (Recent Posts BG) */
+  --color-gray-5
+  : #E0E0E0;      /* Garis Pemisah / Border */
+  --color-white: #FFFFFF;
+}
