@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="md:w-1/3 flex justify-center">
         <div className="w-80 h-80 rounded-full overflow-hidden border-b-8 border-r-8 border-light-bg shadow-lg">
           <img 
-            src="/public/Ellipse 1.png" 
+            src="/Ellipse1.png" 
             alt="Pahrin Hadi Fikri" 
             className="w-full h-full object-cover"
           />

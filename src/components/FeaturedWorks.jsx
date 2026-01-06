@@ -10,7 +10,7 @@ export default function FeaturedWorks() {
       year: "2023",
       category: "Laravel 10",
       description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-      image: "/public/Rectangle 30.png", // Path menuju folder public
+      image: "/Rectangle30.png", // Path menuju folder public
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ export default function FeaturedWorks() {
       year: "2024",
       category: "Laravel 10 & SEO",
       description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-      image: "/public/Rectangle 32.png",
+      image: "/Rectangle32.png",
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ export default function FeaturedWorks() {
       year: "2024",
       category: "Laravel 11 & React.js",
       description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-      image: "/public/Rectangle 34.png",
+      image: "/Rectangle34.png",
     },
   ];
 

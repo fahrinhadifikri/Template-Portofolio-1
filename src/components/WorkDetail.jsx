@@ -12,7 +12,7 @@ export default function WorkDetail() {
       year: "2023",
       category: "Laravel 10",
       description: "Sistem absensi real-time menggunakan QR Code terenkripsi untuk mencegah manipulasi data. Dilengkapi dengan fitur geofencing berbasis koordinat GPS.",
-      image: "/Rectangle 30.png",
+      image: "/Rectangle30.png",
     }
   ];
 
@@ -61,8 +61,8 @@ export default function WorkDetail() {
       </div>
 
       <div className="flex flex-col gap-8">
-        <img src="/Rectangle 32.png" alt="Detail 1" className="w-full rounded-lg" />
-        <img src="/Rectangle 34.png" alt="Detail 2" className="w-full rounded-lg" />
+        <img src="/Rectangle32.png" alt="Detail 1" className="w-full rounded-lg" />
+        <img src="/Rectangle34.png" alt="Detail 2" className="w-full rounded-lg" />
       </div>
     </section>
   );

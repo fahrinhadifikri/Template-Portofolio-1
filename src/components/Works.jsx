@@ -9,7 +9,7 @@ export default function Works() {
       year: "2023",
       category: "Laravel 10",
       description: "Sistem absensi real-time menggunakan QR Code terenkripsi untuk mencegah manipulasi data. Dilengkapi dengan fitur geofencing berbasis koordinat GPS.",
-      image: "/Rectangle 30.png",
+      image: "/Rectangle30.png",
     },
     {
       id: 2,
@@ -17,7 +17,7 @@ export default function Works() {
       year: "2024",
       category: "Laravel 10 & SEO",
       description: "Pengembangan platform e-commerce dengan optimasi SEO on-page yang mendalam, menghasilkan peningkatan trafik organik sebesar 40% dalam 3 bulan pertama.",
-      image: "/Rectangle 32.png",
+      image: "/Rectangle32.png",
     },
     {
       id: 3,
@@ -25,7 +25,7 @@ export default function Works() {
       year: "2024",
       category: "Laravel 11 & React.js",
       description: "Website profil perusahaan modern dengan integrasi headless CMS. Menggunakan React untuk frontend yang interaktif dan Laravel sebagai API backend.",
-      image: "/Rectangle 34.png",
+      image: "/Rectangle34.png",
     }
   ];
 
